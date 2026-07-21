@@ -14,8 +14,6 @@ High-impact leader specializing in the "messy middle" of enterprise software, un
 - **Cloud & Infra:** AWS, Serverless, CloudFormation, Vercel, Docker, Github Actions, Gitlab CI/CD
 - **Architecture:** Domain-Driven Design (DDD), Test-Driven Development (TDD), Asynchronous Task Processing, Legacy Modernization
 
----
-
 ## Employment History
 
 ### ClearGov (Acquired Gravity)
